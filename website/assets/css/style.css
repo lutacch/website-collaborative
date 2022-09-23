@@ -1,7 +1,3 @@
-body {
-    background-image: url(/workspace/exercise-collaborative-html-website/website/assets/img/bg.jpg);
-    background-size: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
+body{
+    background: #BDBDBD;
 }
-  
